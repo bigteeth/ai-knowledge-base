@@ -1,0 +1,22 @@
+{
+  "id": "github_trending_20260423_evomap-evolver",
+  "title": "EvoMap / evolver",
+  "source": "github_trending",
+  "source_url": "https://github.com/EvoMap/evolver",
+  "summary": "Evolver 是一个面向 AI agent 的自演化引擎，核心思路是扫描日志与记忆信号，选择 Gene/Capsule 资产，生成受协议约束的 GEP 提示，并记录可审计的 EvolutionEvent。它明确强调自己是“提示生成器而非自动打补丁工具”，主打可审计、可回滚、可治理的演化过程，这让它在“自进化 agent”方向上比纯概念型项目更注重约束与安全边界。",
+  "tags": [
+    "agent-evolution",
+    "prompt-governance",
+    "memory-system",
+    "automation",
+    "agent-framework"
+  ],
+  "status": "reviewed",
+  "highlights": [
+    "围绕 Genes、Capsules、Events 构建可审计的进化协议，而不是黑盒自修改",
+    "支持离线运行，也可接入 EvoMap Hub 获得技能共享和工作池等网络能力",
+    "明确区分提示生成与代码执行边界，并给出验证命令安全约束"
+  ],
+  "score": 7,
+  "score_reason": "方向新颖且有方法论，但仍偏新兴实验范式，长期效果与生态影响还需更多验证。"
+}

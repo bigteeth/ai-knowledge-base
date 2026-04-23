@@ -1,0 +1,72 @@
+[
+  {
+    "title": "EvoMap/evolver",
+    "url": "https://github.com/EvoMap/evolver",
+    "source": "github_trending",
+    "popularity": "4,364 stars this week",
+    "summary": "一个面向 AI Agent 的自进化引擎，基于 GEP 协议生成可审计的演化提示与技能资产。"
+  },
+  {
+    "title": "lsdefine/GenericAgent",
+    "url": "https://github.com/lsdefine/GenericAgent",
+    "source": "github_trending",
+    "popularity": "4,216 stars this week",
+    "summary": "极简自进化 LLM Agent 框架，可控制浏览器、终端、文件系统和设备，并把任务经验沉淀为技能。"
+  },
+  {
+    "title": "NousResearch/hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "source": "github_trending",
+    "popularity": "22,083 stars this week",
+    "summary": "Nous Research 的自改进 AI Agent，支持持久记忆、技能生成、多平台消息接入和并行子代理。"
+  },
+  {
+    "title": "openai/openai-agents-python",
+    "url": "https://github.com/openai/openai-agents-python",
+    "source": "github_trending",
+    "popularity": "3,802 stars this week",
+    "summary": "OpenAI 开源的 Python Agents SDK，用于构建多 Agent 工作流，支持工具、护栏、追踪与实时语音 Agent。"
+  },
+  {
+    "title": "Lordog/dive-into-llms",
+    "url": "https://github.com/Lordog/dive-into-llms",
+    "source": "github_trending",
+    "popularity": "4,550 stars this week",
+    "summary": "面向大模型实践的中文开源教程，涵盖微调部署、推理、对齐、安全、多模态与 GUI Agent 等主题。"
+  },
+  {
+    "title": "jamiepine/voicebox",
+    "url": "https://github.com/jamiepine/voicebox",
+    "source": "github_trending",
+    "popularity": "4,495 stars this week",
+    "summary": "本地优先的开源 AI 语音工作室，支持语音克隆、TTS、多引擎生成、转录和语音应用集成。"
+  },
+  {
+    "title": "multica-ai/multica",
+    "url": "https://github.com/multica-ai/multica",
+    "source": "github_trending",
+    "popularity": "6,015 stars this week",
+    "summary": "开源托管式 Agent 协作平台，把编码 Agent 作为团队成员来分配任务、跟踪进度并复用技能。"
+  },
+  {
+    "title": "vercel-labs/open-agents",
+    "url": "https://github.com/vercel-labs/open-agents",
+    "source": "github_trending",
+    "popularity": "1,684 stars this week",
+    "summary": "Vercel 的开源云端 Agent 模板，包含 Web 界面、工作流运行时、沙箱编排和 GitHub 集成。"
+  },
+  {
+    "title": "Tracer-Cloud/opensre",
+    "url": "https://github.com/Tracer-Cloud/opensre",
+    "source": "github_trending",
+    "popularity": "1,508 stars this week",
+    "summary": "面向 AI SRE Agent 的开源框架，可连接日志、指标、追踪与运维工具，进行故障调查和根因分析。"
+  },
+  {
+    "title": "BasedHardware/omi",
+    "url": "https://github.com/BasedHardware/omi",
+    "source": "github_trending",
+    "popularity": "3,624 stars this week",
+    "summary": "开源多端 AI 助手与可穿戴项目，可实时转录屏幕和对话、生成摘要与行动项，并提供长期记忆聊天。"
+  }
+]

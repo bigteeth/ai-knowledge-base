@@ -1,0 +1,23 @@
+{
+  "id": "github_trending_20260423_lordog-dive-into-llms",
+  "title": "Lordog / dive-into-llms",
+  "source": "github_trending",
+  "source_url": "https://github.com/Lordog/dive-into-llms",
+  "summary": "这是一个中文大模型实践教程仓库，来源于上海交大相关课程内容，覆盖微调部署、提示工程、知识编辑、数学推理、水印、越狱、多模态、GUI Agent、安全对齐等多个主题，并提供课件、教程和 Notebook。它更偏教育与入门实践，不是新工具或新框架，但对中文学习者建立系统化认知和动手路径很有帮助。",
+  "tags": [
+    "llm",
+    "tutorial",
+    "education",
+    "chinese",
+    "agent",
+    "ai-safety"
+  ],
+  "status": "reviewed",
+  "highlights": [
+    "主题覆盖面广，从基础开发到安全、Agent、多模态都有配套资料",
+    "提供课件、教程、脚本三类材料，适合教学和自学",
+    "公开说明为公益教程，并新增国产化大模型开发全流程相关内容"
+  ],
+  "score": 7,
+  "score_reason": "学习参考价值高，尤其适合中文受众，但更偏教程集合，对产业格局影响有限。"
+}

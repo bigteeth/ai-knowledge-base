@@ -1,0 +1,22 @@
+{
+  "id": "github_trending_20260423_multica-ai-multica",
+  "title": "multica-ai / multica",
+  "source": "github_trending",
+  "source_url": "https://github.com/multica-ai/multica",
+  "summary": "Multica 是一个把编码智能体当作团队成员来管理的开源平台，提供任务分配、状态跟踪、技能复用、运行时连接和多工作区隔离。它的公开定位很明确：不是单机 agent demo，而是围绕“人类团队 + AI 同事”协作构建的管理层基础设施，兼容 Claude Code、Codex、OpenClaw、OpenCode、Hermes、Gemini 等多种 agent runtime。",
+  "tags": [
+    "agent-platform",
+    "team-collaboration",
+    "multi-agent",
+    "workflow",
+    "self-hosting"
+  ],
+  "status": "reviewed",
+  "highlights": [
+    "把 issue、评论、看板、进度流和 agent runtime 统一到同一协作界面",
+    "强调技能可复用和多工作区隔离，更接近团队级管理平台",
+    "支持云端与自托管，并兼容多种主流 agent CLI"
+  ],
+  "score": 8,
+  "score_reason": "对团队化 agent 协作有明显实践价值，方向清晰且工程化较强，但行业影响力仍在形成中。"
+}

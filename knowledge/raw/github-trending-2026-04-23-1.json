@@ -1,0 +1,72 @@
+[
+  {
+    "title": "forrestchang / andrej-karpathy-skills",
+    "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+    "source": "github_trending",
+    "popularity": "35,349 stars this week",
+    "summary": "这是一个用于改进 Claude Code 行为的单文件配置仓库，内容来自对 LLM 编程常见问题的经验总结，关注 AI 编码助手的使用效果与约束。"
+  },
+  {
+    "title": "NousResearch / hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "source": "github_trending",
+    "popularity": "22,083 stars this week",
+    "summary": "这是 Nous Research 的智能体项目，仓库描述强调“会随用户一起成长”的 agent，属于 AI agent 方向的通用工具。"
+  },
+  {
+    "title": "thedotmack / claude-mem",
+    "url": "https://github.com/thedotmack/claude-mem",
+    "source": "github_trending",
+    "popularity": "8,739 stars this week",
+    "summary": "这是一个 Claude Code 插件，可自动记录编码会话内容、用 AI 压缩上下文，并在后续会话中回注相关记忆，属于 LLM 编码辅助基础设施。"
+  },
+  {
+    "title": "multica-ai / multica",
+    "url": "https://github.com/multica-ai/multica",
+    "source": "github_trending",
+    "popularity": "6,015 stars this week",
+    "summary": "这是一个开源的托管式 agents 平台，面向把编码智能体作为团队成员来分配任务、跟踪进度和沉淀技能，属于 agent 协作平台。"
+  },
+  {
+    "title": "Lordog / dive-into-llms",
+    "url": "https://github.com/Lordog/dive-into-llms",
+    "source": "github_trending",
+    "popularity": "4,550 stars this week",
+    "summary": "这是《动手学大模型 Dive into LLMs》系列实践教程仓库，聚焦大模型学习与编程实践，属于 LLM 教程与工具化内容。"
+  },
+  {
+    "title": "jamiepine / voicebox",
+    "url": "https://github.com/jamiepine/voicebox",
+    "source": "github_trending",
+    "popularity": "4,495 stars this week",
+    "summary": "这是一个开源 AI 语音工作室，支持语音克隆、口述和生成，属于语音 AI 应用与创作工具。"
+  },
+  {
+    "title": "EvoMap / evolver",
+    "url": "https://github.com/EvoMap/evolver",
+    "source": "github_trending",
+    "popularity": "4,364 stars this week",
+    "summary": "这是一个面向 AI agents 的自演化引擎，强调通过 Genes、Capsules 和 Events 实现可审计的演化机制，属于 agent 运行与演化框架。"
+  },
+  {
+    "title": "lsdefine / GenericAgent",
+    "url": "https://github.com/lsdefine/GenericAgent",
+    "source": "github_trending",
+    "popularity": "4,216 stars this week",
+    "summary": "这是一个自演化智能体项目，仓库描述称其可从较小初始代码逐步长出技能树，并以更低 token 消耗获得系统控制能力。"
+  },
+  {
+    "title": "openai / openai-agents-python",
+    "url": "https://github.com/openai/openai-agents-python",
+    "source": "github_trending",
+    "popularity": "3,802 stars this week",
+    "summary": "这是 OpenAI 提供的 Python 多智能体工作流框架，定位为轻量但功能完整，适合构建 multi-agent 编排与执行流程。"
+  },
+  {
+    "title": "BasedHardware / omi",
+    "url": "https://github.com/BasedHardware/omi",
+    "source": "github_trending",
+    "popularity": "3,624 stars this week",
+    "summary": "这是一个多模态 AI 项目，仓库描述显示其可看屏幕、听对话并给出建议，覆盖视觉、语音与实时辅助交互场景。"
+  }
+]

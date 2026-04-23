@@ -1,0 +1,22 @@
+{
+  "id": "github_trending_20260423_nousresearch-hermes-agent",
+  "title": "NousResearch / hermes-agent",
+  "source": "github_trending",
+  "source_url": "https://github.com/NousResearch/hermes-agent",
+  "summary": "Hermes Agent 是 Nous Research 推出的自学习智能体系统，强调跨会话记忆、技能生成、自我改进以及多平台交互。公开仓库显示它不仅支持 CLI，还能接入 Telegram、Discord、Slack、WhatsApp 等渠道，并提供调度、子代理并行、MCP 集成和研究训练相关能力，已经不是简单 demo，而是一个较完整的 agent 运行平台。",
+  "tags": [
+    "agent",
+    "memory",
+    "multi-agent",
+    "automation",
+    "developer-platform"
+  ],
+  "status": "reviewed",
+  "highlights": [
+    "内置学习闭环，可从经验中生成和改进技能，并支持跨会话检索记忆",
+    "支持多种终端与消息平台，以及本地、Docker、SSH、Daytona、Modal 等运行后端",
+    "同时覆盖生产使用与研究场景，包含调度、并行子代理、轨迹生成和 RL 相关组件"
+  ],
+  "score": 9,
+  "score_reason": "功能完整度高、适用场景广，对 agent 工程化实践有显著参考价值，接近平台级项目。"
+}

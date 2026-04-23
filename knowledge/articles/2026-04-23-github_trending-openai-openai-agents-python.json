@@ -1,0 +1,23 @@
+{
+  "id": "github_trending_20260423_openai-openai-agents-python",
+  "title": "openai / openai-agents-python",
+  "source": "github_trending",
+  "source_url": "https://github.com/openai/openai-agents-python",
+  "summary": "这是 OpenAI 官方推出的 Python Agents SDK，目标是为多智能体工作流提供轻量但完整的工程框架。公开文档显示它覆盖 agent、handoff、tools、guardrails、human-in-the-loop、sessions、tracing、realtime agents，以及新加入的 sandbox agents，既能做基础编排，也能支持更长周期、可控的工作流执行。",
+  "tags": [
+    "openai",
+    "agents-sdk",
+    "multi-agent",
+    "python",
+    "workflow",
+    "framework"
+  ],
+  "status": "reviewed",
+  "highlights": [
+    "由 OpenAI 官方维护，覆盖多智能体编排所需的核心工程能力",
+    "支持 provider-agnostic 接入，并包含工具、护栏、会话、追踪和实时语音等模块",
+    "新增 sandbox agents，使 agent 能在受控环境中处理文件、命令和长期任务"
+  ],
+  "score": 9,
+  "score_reason": "官方背书强、适用面广、对 agent 工程化实践影响直接，属于高关注度基础设施。"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "github_trending_20260423_jamiepine-voicebox",
+  "title": "jamiepine / voicebox",
+  "source": "github_trending",
+  "source_url": "https://github.com/jamiepine/voicebox",
+  "summary": "Voicebox 是一个本地优先的开源语音合成工作室，定位为 ElevenLabs 的开源替代方案，支持语音克隆、多引擎 TTS、后处理效果、长文本生成、时间线编辑和 REST API 集成。它的公开资料显示项目已经覆盖桌面应用、模型管理、跨平台 GPU 支持和应用集成接口，完成度在开源语音产品里相当高。",
+  "tags": [
+    "voice-ai",
+    "tts",
+    "voice-cloning",
+    "local-first",
+    "audio-tools"
+  ],
+  "status": "reviewed",
+  "highlights": [
+    "支持 7 种 TTS 引擎、23 种语言、语音克隆和多音轨编辑",
+    "本地优先，强调隐私保护与跨平台运行能力",
+    "既能作为桌面创作工具，也提供 REST API 供外部应用调用"
+  ],
+  "score": 8,
+  "score_reason": "产品完成度高、可用性强，对语音 AI 实践有直接价值，但主要影响在语音应用赛道。"
+}

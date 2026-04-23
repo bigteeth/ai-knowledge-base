@@ -1,0 +1,23 @@
+{
+  "id": "github_trending_20260423_basedhardware-omi",
+  "title": "BasedHardware / omi",
+  "source": "github_trending",
+  "source_url": "https://github.com/BasedHardware/omi",
+  "summary": "Omi 是一个开源的多端个人 AI 记忆系统，能够持续采集屏幕内容和对话音频，做实时转写、摘要、行动项提取，并通过桌面、手机和可穿戴设备形成“第二大脑”。从公开仓库看，它不仅有软件栈，还有硬件设备、固件、SDK、MCP 与后端体系，已经是一个完整的软硬一体化项目，而非单纯的聊天应用。",
+  "tags": [
+    "multimodal",
+    "wearable",
+    "memory",
+    "personal-ai",
+    "transcription",
+    "hardware"
+  ],
+  "status": "reviewed",
+  "highlights": [
+    "覆盖桌面、移动端、可穿戴设备与后端服务，软硬件链路完整",
+    "核心能力是持续采集、转写、总结和记忆检索，适合个人知识流记录",
+    "开放了 SDK、MCP 和硬件设计文档，具备二次开发与生态扩展空间"
+  ],
+  "score": 8,
+  "score_reason": "产品形态完整且想象空间大，但落地价值受隐私、设备门槛和使用习惯影响，仍属高潜力项目。"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "github_trending_20260423_thedotmack-claude-mem",
+  "title": "thedotmack / claude-mem",
+  "source": "github_trending",
+  "source_url": "https://github.com/thedotmack/claude-mem",
+  "summary": "Claude-Mem 是面向 Claude Code 的持久化记忆插件，通过会话钩子自动记录工具使用与上下文，再用 AI 进行压缩和检索，把相关记忆回注到后续会话中。公开文档显示它不只是“保存聊天记录”，而是围绕会话连续性、分层检索、MCP 搜索工具和低 token 成本记忆召回构建了一整套工作流，对长周期编码协作尤其有价值。",
+  "tags": [
+    "memory",
+    "claude-code",
+    "ai-coding",
+    "mcp",
+    "context-management"
+  ],
+  "status": "reviewed",
+  "highlights": [
+    "基于生命周期 hooks 自动采集、压缩和回注上下文，减少会话断裂",
+    "提供 SQLite、向量检索和 MCP 搜索工具，支持渐进式披露以节省 token",
+    "已支持 Claude Code、Gemini CLI、OpenCode 和 OpenClaw 等生态接入"
+  ],
+  "score": 8,
+  "score_reason": "对 AI 编码连续性问题解决得很具体且实用，但影响范围仍主要集中在开发辅助场景。"
+}

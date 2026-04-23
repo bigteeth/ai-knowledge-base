@@ -1,0 +1,21 @@
+{
+  "id": "github_trending_20260423_forrestchang-andrej-karpathy-skills",
+  "title": "forrestchang / andrej-karpathy-skills",
+  "source": "github_trending",
+  "source_url": "https://github.com/forrestchang/andrej-karpathy-skills",
+  "summary": "这是一个把 Andrej Karpathy 对 LLM 编码失误的观察沉淀成单文件规范的仓库，核心产物是可直接用于 Claude Code、Cursor 等环境的 `CLAUDE.md`/规则文件。它的价值不在于提供复杂框架，而在于用极低接入成本约束 AI 编码助手避免瞎猜、过度抽象和越界修改，因此对日常 AI 辅助开发有很强的即插即用参考意义。",
+  "tags": [
+    "ai-coding",
+    "prompt-engineering",
+    "claude-code",
+    "developer-tools"
+  ],
+  "status": "reviewed",
+  "highlights": [
+    "把常见 LLM 编码问题归纳为四条可执行原则：先思考、优先简单、外科手术式改动、目标驱动执行",
+    "支持 Claude Code 插件、CLAUDE.md 和 Cursor 规则等多种接入方式，迁移成本低",
+    "定位更像行为规范包而非新框架，适合作为团队 AI 编码基线"
+  ],
+  "score": 8,
+  "score_reason": "对 AI 编码实践有直接帮助、落地门槛低，但本质上是规范沉淀而非底层能力突破。"
+}

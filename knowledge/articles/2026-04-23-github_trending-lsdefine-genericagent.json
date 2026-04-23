@@ -1,0 +1,22 @@
+{
+  "id": "github_trending_20260423_lsdefine-genericagent",
+  "title": "lsdefine / GenericAgent",
+  "source": "github_trending",
+  "source_url": "https://github.com/lsdefine/GenericAgent",
+  "summary": "GenericAgent 是一个极简的自进化智能体框架，强调用约 3K 行核心代码、9 个原子工具和分层记忆系统，实现对本地电脑、浏览器与移动设备的系统级控制，并把任务执行路径沉淀成可复用技能。仓库还附带技术报告与多种实际演示，因此它不仅是概念宣言，也在尝试给出“轻量、低 token、自增长 agent”的可验证路线。",
+  "tags": [
+    "agent",
+    "self-evolving",
+    "computer-use",
+    "memory",
+    "automation"
+  ],
+  "status": "reviewed",
+  "highlights": [
+    "以极简代码和分层记忆为卖点，强调更低 token 成本下的系统控制能力",
+    "支持浏览器、文件系统、键鼠、ADB 等真实环境操作，并可把经验固化为技能",
+    "公开了 arXiv 技术报告和多个真实任务演示，验证材料比普通趋势项目更充分"
+  ],
+  "score": 8,
+  "score_reason": "在轻量自进化 agent 方向上有明确差异化和较强可验证性，实践参考价值较高。"
+}
